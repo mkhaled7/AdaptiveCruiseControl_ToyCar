@@ -1,5 +1,5 @@
 //Adaptive Cruise Control (ACC) Toy Car --->     //USES PWM to control speed
-//Mohammad Khaled
+//M.Khaled
 //June 2, 2020
 
 #include <elapsedMillis.h>
